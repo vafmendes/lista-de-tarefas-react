@@ -20,6 +20,9 @@
  - Visual Studio Code (VsCode)
 
 
+link da aplicação: https://vafmendes.github.io/lista-de-tarefas-react/
+
+
 
 
 
